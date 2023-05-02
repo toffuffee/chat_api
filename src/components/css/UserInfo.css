@@ -1,0 +1,47 @@
+.user-card {
+    width: 350px;
+    height: 450px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: auto;
+    position: relative;
+}
+
+.log-out-btn {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: red;
+    font-style: italic;
+    outline:none;
+    cursor: pointer;
+    margin: auto;
+    margin-top: 10px;
+    width: 80px;
+    color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 30px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.name {
+    text-align: center;
+}
+
+.lastname {
+    text-align: center;
+}
+
+.phone {
+    text-align: center;
+}
+
+.email {
+    text-align: center;
+}

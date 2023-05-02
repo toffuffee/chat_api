@@ -1,0 +1,13 @@
+.header-flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.user-info {
+    display: none;
+}
+
+.user-search {
+    display: none;
+}
